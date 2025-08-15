@@ -1,5 +1,5 @@
 
-phone pe integration code  
+fixed phone pe integration code  
 
 google pay integration 
 
